@@ -1,3 +1,5 @@
+![Node CI](https://github.com/joonaspartanen/react_country_app/workflows/Node%20CI/badge.svg)
+
 # React Country app
 
 ## Description
